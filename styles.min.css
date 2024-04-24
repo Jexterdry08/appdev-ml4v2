@@ -40,11 +40,12 @@ h3 {
     margin-top: 40px !important;
 }
 .main-section2--content {
-    margin: 5px;
+    margin: 3px;
 }
 .main-section2 p {
     line-height: 26px;
     text-align: justify;
+    padding: 3%;
 }
 nav ul,article>h1,article>h2 {
     list-style-type: none;
@@ -53,7 +54,7 @@ nav ul,article>h1,article>h2 {
 }
 nav a,footer p:hover,i {
     text-decoration: none;
-    color: #FF9F45;
+    color: #c76000;
 }
 nav,main,footer {
     padding: 3% 0;
@@ -64,7 +65,7 @@ section,article>img,article>p {
 .main-section2 article {
     border: 1px solid wheat;
     border-radius: 10px;
-    padding: 1%;
+    padding: 1% 0;
 }
 h3 {
     margin: 3%;

@@ -54,7 +54,7 @@ nav ul,article>h1,article>h2 {
 }
 nav a,footer p:hover,i {
     text-decoration: none;
-    color: #c76000;
+    color: #000000;
 }
 nav,main,footer {
     padding: 3% 0;
